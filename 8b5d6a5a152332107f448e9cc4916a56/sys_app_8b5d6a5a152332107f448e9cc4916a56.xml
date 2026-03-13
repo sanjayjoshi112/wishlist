@@ -22,7 +22,7 @@
         <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>x_snc_wishlist</scope>
         <scoped_administration>false</scoped_administration>
-        <short_description>Create personal wish lists</short_description>
+        <short_description>Create personal wish lists.</short_description>
         <source>x_snc_wishlist</source>
         <store_correlation_id/>
         <store_url/>
@@ -32,9 +32,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-03-13 05:04:39</sys_created_on>
         <sys_id>8b5d6a5a152332107f448e9cc4916a56</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-13 05:23:12</sys_updated_on>
+        <sys_updated_on>2026-03-13 05:43:28</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
